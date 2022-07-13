@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DrawableResource</string>
+    <string name="shape">Shape</string>
+    <string name="login">Login</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="email_or_phone_number">Email or Phone Number</string>
+    <string name="password">Password</string>
+</resources>
